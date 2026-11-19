@@ -1,0 +1,250 @@
+{
+ "sets": [
+  {
+   "name": "Bread and Harvest",
+   "reward": 15
+  }
+ ],
+ "puzzles": [
+  {
+   "answer": "BREAD",
+   "pics": [
+    "bread_1",
+    "bread_2",
+    "bread_3",
+    "bread_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "ARBSTUFEDPOE",
+   "pool": "journey"
+  },
+  {
+   "answer": "FISH",
+   "pics": [
+    "fish_1",
+    "fish_2",
+    "fish_3",
+    "fish_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "HEESSTPFLGIG",
+   "pool": "daily"
+  },
+  {
+   "answer": "LAMP",
+   "pics": [
+    "lamp_1",
+    "lamp_2",
+    "lamp_3",
+    "lamp_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "MBNGEIPHOALR",
+   "pool": "journey"
+  },
+  {
+   "answer": "WELL",
+   "pics": [
+    "well_1",
+    "well_2",
+    "well_3",
+    "well_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "PREWLLHDMEMA",
+   "pool": "daily"
+  },
+  {
+   "answer": "BASKET",
+   "pics": [
+    "basket_1",
+    "basket_2",
+    "basket_3",
+    "basket_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "SBAHSTAOETKD",
+   "pool": "journey"
+  },
+  {
+   "answer": "FIG",
+   "pics": [
+    "fig_1",
+    "fig_2",
+    "fig_3",
+    "fig_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "FBHLPYFGIALG",
+   "pool": "daily"
+  },
+  {
+   "answer": "SALT",
+   "pics": [
+    "salt_1",
+    "salt_2",
+    "salt_3",
+    "salt_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "CMLSDNTESHAB",
+   "pool": "journey"
+  },
+  {
+   "answer": "PALM",
+   "pics": [
+    "palm_1",
+    "palm_2",
+    "palm_3",
+    "palm_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "PATMUGLCPMSL",
+   "pool": "daily"
+  },
+  {
+   "answer": "POMEGRANATE",
+   "pics": [
+    "pomegranate_1",
+    "pomegranate_2",
+    "pomegranate_3",
+    "pomegranate_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "TEPMNROAAEGI",
+   "pool": "journey"
+  },
+  {
+   "answer": "CEDAR",
+   "pics": [
+    "cedar_1",
+    "cedar_2",
+    "cedar_3",
+    "cedar_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "CDKAHDRIGSEI",
+   "pool": "daily"
+  },
+  {
+   "answer": "BARLEY",
+   "pics": [
+    "barley_1",
+    "barley_2",
+    "barley_3",
+    "barley_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "YBWRTLBABYWE",
+   "pool": "journey"
+  },
+  {
+   "answer": "LENTILS",
+   "pics": [
+    "lentils_1",
+    "lentils_2",
+    "lentils_3",
+    "lentils_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "TILEELNGHLES",
+   "pool": "daily"
+  },
+  {
+   "answer": "MANTLE",
+   "pics": [
+    "mantle_1",
+    "mantle_2",
+    "mantle_3",
+    "mantle_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "EMAARPNUTLNY",
+   "pool": "journey"
+  },
+  {
+   "answer": "GIRDLE",
+   "pics": [
+    "girdle_1",
+    "girdle_2",
+    "girdle_3",
+    "girdle_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "TIBDWREGMLRE",
+   "pool": "daily"
+  },
+  {
+   "answer": "SCEPTRE",
+   "pics": [
+    "sceptre_1",
+    "sceptre_2",
+    "sceptre_3",
+    "sceptre_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "PTSCEUGRTRFE",
+   "pool": "journey"
+  },
+  {
+   "answer": "WINESKIN",
+   "pics": [
+    "wineskin_1",
+    "wineskin_2",
+    "wineskin_3",
+    "wineskin_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "NNSEIWIWIKUY",
+   "pool": "daily"
+  },
+  {
+   "answer": "ACACIA",
+   "pics": [
+    "acacia_1",
+    "acacia_2",
+    "acacia_3",
+    "acacia_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "KRYYCCIBAAFA",
+   "pool": "journey"
+  },
+  {
+   "answer": "FLAX",
+   "pics": [
+    "flax_1",
+    "flax_2",
+    "flax_3",
+    "flax_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "XLLNCBLAKPFC",
+   "pool": "daily"
+  },
+  {
+   "answer": "CORIANDER",
+   "pics": [
+    "coriander_1",
+    "coriander_2",
+    "coriander_3",
+    "coriander_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "FNTECRAODIRM",
+   "pool": "journey"
+  },
+  {
+   "answer": "CUMIN",
+   "pics": [
+    "cumin_1",
+    "cumin_2",
+    "cumin_3",
+    "cumin_4"
+   ],
+   "set": "Bread and Harvest",
+   "letters": "CUGINTLMABSH",
+   "pool": "daily"
+  }
+ ]
+}
