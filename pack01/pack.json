@@ -1,0 +1,478 @@
+{
+ "sets": [
+  {
+   "name": "The Gospel",
+   "reward": 10
+  },
+  {
+   "name": "Nature and Stories",
+   "reward": 20
+  },
+  {
+   "name": "Objects of the Bible",
+   "reward": 15
+  },
+  {
+   "name": "Swords and Plowshares",
+   "reward": 15
+  }
+ ],
+ "puzzles": [
+  {
+   "answer": "TALENTS",
+   "pics": [
+    "talents_1",
+    "talents_2",
+    "talents_3",
+    "talents_4"
+   ],
+   "set": "The Gospel",
+   "letters": "DAOTLTISRBEN",
+   "pool": "journey"
+  },
+  {
+   "answer": "GETHSEMANE",
+   "pics": [
+    "gethsemane_1",
+    "gethsemane_2",
+    "gethsemane_3",
+    "gethsemane_4"
+   ],
+   "set": "The Gospel",
+   "letters": "EESTNEHRAGMI",
+   "pool": "daily"
+  },
+  {
+   "answer": "ZACCHAEUS",
+   "pics": [
+    "zacchaeus_1",
+    "zacchaeus_2",
+    "zacchaeus_3",
+    "zacchaeus_4"
+   ],
+   "set": "The Gospel",
+   "letters": "SEAUZHOACILC",
+   "pool": "journey"
+  },
+  {
+   "answer": "DOVE",
+   "pics": [
+    "dove_1",
+    "dove_2",
+    "dove_3",
+    "dove_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "EBRDMAHOIGSV",
+   "pool": "journey"
+  },
+  {
+   "answer": "LION",
+   "pics": [
+    "lion_1",
+    "lion_2",
+    "lion_3",
+    "lion_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "SKIEGALBCRON",
+   "pool": "daily"
+  },
+  {
+   "answer": "ALMOND",
+   "pics": [
+    "almond_1",
+    "almond_2",
+    "almond_3",
+    "almond_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "LDTPIANHMOSC",
+   "pool": "journey"
+  },
+  {
+   "answer": "HYSSOP",
+   "pics": [
+    "hyssop_1",
+    "hyssop_2",
+    "hyssop_3",
+    "hyssop_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "MSPYILONSDHR",
+   "pool": "daily"
+  },
+  {
+   "answer": "ALTAR",
+   "pics": [
+    "altar_1",
+    "altar_2",
+    "altar_3",
+    "altar_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "PGIARCMTALOE",
+   "pool": "journey"
+  },
+  {
+   "answer": "CENSER",
+   "pics": [
+    "censer_1",
+    "censer_2",
+    "censer_3",
+    "censer_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "RPSLNCUMEOEA",
+   "pool": "daily"
+  },
+  {
+   "answer": "SLING",
+   "pics": [
+    "sling_1",
+    "sling_2",
+    "sling_3",
+    "sling_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "LBWASONRHIGC",
+   "pool": "journey"
+  },
+  {
+   "answer": "GIDEON",
+   "pics": [
+    "gideon_1",
+    "gideon_2",
+    "gideon_3",
+    "gideon_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "ADTISGOPNECK",
+   "pool": "daily"
+  },
+  {
+   "answer": "RAHAB",
+   "pics": [
+    "rahab_1",
+    "rahab_2",
+    "rahab_3",
+    "rahab_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "NMKAUATREIHB",
+   "pool": "journey"
+  },
+  {
+   "answer": "ANCHOR",
+   "pics": [
+    "anchor_1",
+    "anchor_2",
+    "anchor_3",
+    "anchor_4"
+   ],
+   "set": "Nature and Stories",
+   "letters": "NPWOCRDHIBAL",
+   "pool": "daily"
+  },
+  {
+   "answer": "EPHOD",
+   "pics": [
+    "ephod_1",
+    "ephod_2",
+    "ephod_3",
+    "ephod_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "DHEPODDRKRHW",
+   "pool": "journey"
+  },
+  {
+   "answer": "QUIVER",
+   "pics": [
+    "quiver_1",
+    "quiver_2",
+    "quiver_3",
+    "quiver_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "JUPQODIEDVRA",
+   "pool": "daily"
+  },
+  {
+   "answer": "SICKLE",
+   "pics": [
+    "sickle_1",
+    "sickle_2",
+    "sickle_3",
+    "sickle_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "SKISOECSLJJC",
+   "pool": "journey"
+  },
+  {
+   "answer": "MITRE",
+   "pics": [
+    "mitre_1",
+    "mitre_2",
+    "mitre_3",
+    "mitre_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "IMTCDRNEMTPS",
+   "pool": "daily"
+  },
+  {
+   "answer": "SPINDLE",
+   "pics": [
+    "spindle_1",
+    "spindle_2",
+    "spindle_3",
+    "spindle_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "LDISHNRTEEPB",
+   "pool": "journey"
+  },
+  {
+   "answer": "MILLSTONE",
+   "pics": [
+    "millstone_1",
+    "millstone_2",
+    "millstone_3",
+    "millstone_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "MLPITLSNISOE",
+   "pool": "daily"
+  },
+  {
+   "answer": "LAVER",
+   "pics": [
+    "laver_1",
+    "laver_2",
+    "laver_3",
+    "laver_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "ALVOBWURREAE",
+   "pool": "journey"
+  },
+  {
+   "answer": "SIGNET",
+   "pics": [
+    "signet_1",
+    "signet_2",
+    "signet_3",
+    "signet_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "ROINDTSOJGKE",
+   "pool": "daily"
+  },
+  {
+   "answer": "SHOFAR",
+   "pics": [
+    "shofar_1",
+    "shofar_2",
+    "shofar_3",
+    "shofar_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "GFOCRAAHEONS",
+   "pool": "journey"
+  },
+  {
+   "answer": "SANDALS",
+   "pics": [
+    "sandals_1",
+    "sandals_2",
+    "sandals_3",
+    "sandals_4"
+   ],
+   "set": "Objects of the Bible",
+   "letters": "ESILDAANSWLS",
+   "pool": "daily"
+  },
+  {
+   "answer": "SWORD",
+   "pics": [
+    "sword_1",
+    "sword_2",
+    "sword_3",
+    "sword_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "EDWAPLERNOOS",
+   "pool": "journey"
+  },
+  {
+   "answer": "SHIELD",
+   "pics": [
+    "shield_1",
+    "shield_2",
+    "shield_3",
+    "shield_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "IHSNDCCHIOLE",
+   "pool": "daily"
+  },
+  {
+   "answer": "HARP",
+   "pics": [
+    "harp_1",
+    "harp_2",
+    "harp_3",
+    "harp_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "HUCYUMKRPHKA",
+   "pool": "journey"
+  },
+  {
+   "answer": "TENT",
+   "pics": [
+    "tent_1",
+    "tent_2",
+    "tent_3",
+    "tent_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "SERTMUWNTAST",
+   "pool": "daily"
+  },
+  {
+   "answer": "NET",
+   "pics": [
+    "net_1",
+    "net_2",
+    "net_3",
+    "net_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "GRYHNHDUETML",
+   "pool": "journey"
+  },
+  {
+   "answer": "HELMET",
+   "pics": [
+    "helmet_1",
+    "helmet_2",
+    "helmet_3",
+    "helmet_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "IETMDEHAAURL",
+   "pool": "daily"
+  },
+  {
+   "answer": "TUNIC",
+   "pics": [
+    "tunic_1",
+    "tunic_2",
+    "tunic_3",
+    "tunic_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "UIUINCEFRKOT",
+   "pool": "journey"
+  },
+  {
+   "answer": "CHARIOT",
+   "pics": [
+    "chariot_1",
+    "chariot_2",
+    "chariot_3",
+    "chariot_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "OEFCBRHIACMT",
+   "pool": "daily"
+  },
+  {
+   "answer": "SPEAR",
+   "pics": [
+    "spear_1",
+    "spear_2",
+    "spear_3",
+    "spear_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "GHPFHREESKAC",
+   "pool": "journey"
+  },
+  {
+   "answer": "FURNACE",
+   "pics": [
+    "furnace_1",
+    "furnace_2",
+    "furnace_3",
+    "furnace_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "RHECFANUHSHU",
+   "pool": "daily"
+  },
+  {
+   "answer": "PLOW",
+   "pics": [
+    "plow_1",
+    "plow_2",
+    "plow_3",
+    "plow_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "PFOKWHLLWWNY",
+   "pool": "journey"
+  },
+  {
+   "answer": "SACKCLOTH",
+   "pics": [
+    "sackcloth_1",
+    "sackcloth_2",
+    "sackcloth_3",
+    "sackcloth_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "HKUKTCALCSOF",
+   "pool": "daily"
+  },
+  {
+   "answer": "VINEYARD",
+   "pics": [
+    "vineyard_1",
+    "vineyard_2",
+    "vineyard_3",
+    "vineyard_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "RNVNAKRDIEYS",
+   "pool": "journey"
+  },
+  {
+   "answer": "PLUMMET",
+   "pics": [
+    "plummet_1",
+    "plummet_2",
+    "plummet_3",
+    "plummet_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "LPCMLTMBBUOE",
+   "pool": "daily"
+  },
+  {
+   "answer": "DISTAFF",
+   "pics": [
+    "distaff_1",
+    "distaff_2",
+    "distaff_3",
+    "distaff_4"
+   ],
+   "set": "Swords and Plowshares",
+   "letters": "AFSBIRIFBDTU",
+   "pool": "journey"
+  }
+ ]
+}
